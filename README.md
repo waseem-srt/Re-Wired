@@ -83,8 +83,8 @@
 ## 👥 Team
 
 - **Mohammed Waseemuddin** – Product Lead & UX  
-- **Omer** – Flutter Dev & Firebase Backend  
-- **Gemini AI** – Project Bootstrapping & Logic Support
+- **Omer Syed Kaiser** – Flutter Dev & Firebase Backend  
+- **Ahmed Qudsi Ghouse Ali Khan** – Project Bootstrapping & Logic Support
 
 ---
 
