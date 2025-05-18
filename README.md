@@ -27,8 +27,8 @@
 | Backend      | Firebase Auth & Firestore |
 | Analytics    | Google Analytics (Firebase)|
 | UI Design    | Figma                     |
-| State Mgmt   | Provider / Bloc (Optional)|
-| Build Tool   | EAS / Firebase Studio     |
+| State Mgmt   | Provider / Bloc           |
+| Build Tool   |  Firebase Studio          |
 
 ---
 
@@ -37,46 +37,33 @@
 📌 Below is the architecture and user-flow design of the Re-Wired app.  
 > *(Click the image to view full-screen version)*
 
----![diagram-export-5-17-2025-11_37_01-PM](https://github.com/user-attachments/assets/2ab7d62c-ea7a-474e-9780-45e638caeb46)
+![diagram-export-5-17-2025-11_37_01-PM](https://github.com/user-attachments/assets/2ab7d62c-ea7a-474e-9780-45e638caeb46)
 
+---
 
 ## 🖼️ App Screenshots
 
-- **Dashboard**  
- ![WhatsApp Image 2025-05-18 at 2 55 10 PM](https://github.com/user-attachments/assets/6dd8ee72-2c89-469a-9c05-df44a8952556)
+<div align="center">
 
+<table>
+  <tr>
+    <td><strong>Dashboard</strong><br><img src="https://github.com/user-attachments/assets/6dd8ee72-2c89-469a-9c05-df44a8952556" width="200"/></td>
+    <td><strong>Guide Section</strong><br><img src="https://github.com/user-attachments/assets/14ebc8aa-7542-4f31-be7e-bed38eedc3af" width="200"/></td>
+    <td><strong>Community Support</strong><br><img src="https://github.com/user-attachments/assets/e083c32b-2095-4078-a639-804cd6c3153e" width="200"/></td>
+  </tr>
+  <tr>
+    <td><strong>Groups / Teams</strong><br><img src="https://github.com/user-attachments/assets/9b17cf09-c81c-4a94-a367-9b4c141f558d" width="200"/></td>
+    <td><strong>Diary Entry</strong><br><img src="https://github.com/user-attachments/assets/ca87c2d0-66a6-4e77-9d76-ab207ae28a85" width="200"/></td>
+    <td><strong>Panic Button</strong><br><img src="https://github.com/user-attachments/assets/6f73b510-88c8-49cb-b44e-06e5a18163b8" width="200"/></td>
+  </tr>
+  <tr>
+    <td><strong>Gamified Triggers</strong><br><img src="https://github.com/user-attachments/assets/252ce29f-867e-4837-aa17-62685643723a" width="200"/></td>
+    <td><strong>Streak Calendar</strong><br><img src="https://github.com/user-attachments/assets/25964dcf-5a1e-4b83-9cb5-1d5bee6a60f2" width="200"/></td>
+    <td><strong>Progress Graphs</strong><br><img src="https://github.com/user-attachments/assets/f1b22bec-b367-40ae-b85f-0c2ff7ffe80c" width="200"/></td>
+  </tr>
+</table>
 
-- **Guide Section**  
- ![WhatsApp Image 2025-05-18 at 2 55 10 PM (1)](https://github.com/user-attachments/assets/14ebc8aa-7542-4f31-be7e-bed38eedc3af)
-
-
-- **Community Support**  
-  ![WhatsApp Image 2025-05-18 at 2 55 11 PM](https://github.com/user-attachments/assets/e083c32b-2095-4078-a639-804cd6c3153e)
-
-
-- **Groups / Teams**  
-  ![WhatsApp Image 2025-05-18 at 2 55 11 PM (1)](https://github.com/user-attachments/assets/9b17cf09-c81c-4a94-a367-9b4c141f558d)
-
-
-- **Diary Entry**  
-  ![WhatsApp Image 2025-05-18 at 2 55 11 PM (2)](https://github.com/user-attachments/assets/ca87c2d0-66a6-4e77-9d76-ab207ae28a85)
-
-
-- **Panic Button**  
-  ![WhatsApp Image 2025-05-18 at 2 55 12 PM](https://github.com/user-attachments/assets/6f73b510-88c8-49cb-b44e-06e5a18163b8)
-
-
-- **Gamified Triggers**  
-  ![WhatsApp Image 2025-05-18 at 2 55 12 PM (1)](https://github.com/user-attachments/assets/252ce29f-867e-4837-aa17-62685643723a)
-
-
-- **Streak Calendar**  
-  ![WhatsApp Image 2025-05-18 at 2 55 12 PM (2)](https://github.com/user-attachments/assets/25964dcf-5a1e-4b83-9cb5-1d5bee6a60f2)
-
-
-- **Progress Graphs**  
- ![WhatsApp Image 2025-05-18 at 2 55 12 PM (3)](https://github.com/user-attachments/assets/f1b22bec-b367-40ae-b85f-0c2ff7ffe80c)
-
+</div>
 
 ---
 
@@ -91,5 +78,3 @@
 ## 📃 License
 
 MIT License – Free to use, modify, and distribute for good causes.
-
----
